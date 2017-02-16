@@ -1,0 +1,23 @@
+{
+  "name": "request-enhance",
+  "version": "0.0.1",
+  "description": "the missing function of timeout in ordinary request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wheelo/request-enhance.git"
+  },
+  "keywords": [
+    "timeout",
+    "request"
+  ],
+  "author": "wheelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wheelo/request-enhance/issues"
+  },
+  "homepage": "https://github.com/wheelo/request-enhance#readme"
+}
